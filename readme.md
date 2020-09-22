@@ -4,7 +4,7 @@
 
   
 
-# Finhub-api PHP
+# Finhub-api-php
 
  quick start :
 
@@ -13,7 +13,11 @@
 ```
 
 ```sh
-php composer.phar install
+ cd finhub-api-php
+```
+
+```sh
+composer install
 ```
 ```sh
 php main.php 
